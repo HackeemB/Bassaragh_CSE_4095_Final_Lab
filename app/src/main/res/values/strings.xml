@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="q1">There are 7 seas</string>
+    <string name="q2">There are 10 continents</string>
+    <string name="q3">3 + 5 = 11</string>
+    <string name="q4">Stamford is a city in Connecticut</string>
+    <string name="q5">The President of the USA is Winny the Pooh</string>
+    <string name="q6">2 * 10 = 20</string>
+    <string name="q7">France is located in Europe</string>
+    <string name="q8">In Peru, the citizens primarily speak German when communicating</string>
+    <string name="q9">Germany is located in the Caribbean</string>
+    <string name="q10">Africa is located in South America</string>
+</resources>
